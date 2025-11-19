@@ -1,4 +1,4 @@
-# World OS (WOS) - World Operating System Design Document
+# World OS (WOS) - World Operating System
 
 ## Overview
 
